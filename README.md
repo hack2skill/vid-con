@@ -6,7 +6,7 @@ This is one of the many open source projects undertaken by Hack2skill. Our aim i
 
 
 ### Languages used
-1-  only PYTHON.
+1- PYTHON.
 
 
 
@@ -18,13 +18,15 @@ please feel free folks to contribute to this code and also feel free to connect 
 ### FOR Installation
 To Contribute to this repository follow these commands in your Terminal:
 
-1. Clone the Repository
+1. Fork the Repo
 
-    - git clone https://github.com/hack2skill/qrcodeGenerator.git
+2. Clone the Repository
+
+    - git clone https://github.com/<username>/vid-con.git
 
 2. After cloning the repository install all dependencies
 
-    - `cd qrcodeGenerator`
+    - `cd vid-con`
     - `npm i`
 
 3. Run the Backend 
